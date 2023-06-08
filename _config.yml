@@ -3,9 +3,9 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Algorithms & Culture
-middle_name: Research Group
-last_name: (ACRG)
+first_name: Algorithms & Culture Research Group
+middle_name:
+last_name:
 email: rishab-nithyanand@uiowa.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Homepage of the Algorithms & Culture Research Group
