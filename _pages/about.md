@@ -18,26 +18,13 @@ social: false  # includes social icons at the bottom of the page
 
 ---
 <p style="text-align: justify">
-The <b>Sentinels for Privacy-Aware and Responsible Technological Advancement (SPARTA)</b> 
-lab is a team of researchers at the <b> University of Iowa </b> who enjoy working towards 
-improving privacy, accountability, and safety of Internet-connected emerging technologies 
-and platforms. 
-
-Beyond technical research and solutions, the team is also interested in achieving a 
-better understanding of the underlying economic, social, legal, and ethical issues that 
-make online privacy, accountability, and safety difficult to achieve.
+A little info about the Algorithms and Culture Research Group (ACRG).
 </p>
 
 ---
-#### join us!
+#### history
 <p style="text-align: justify; color: red">
-The SPARTA lab is always interested in recruiting talented and self-motivated 
-undergraduates (already at the University of Iowa) and Ph.D. students who want 
-to improve the privacy and safety of emerging technologies. 
-If that's you, please read the 
-<a href="http://sparta.cs.uiowa.edu/manifesto">lab manifesto</a> and get in touch
-with <a href="https://sparta.cs.uiowa.edu/people/rishab">Prof. Rishab Nithyanand</a> 
-to discuss research opportunities available within the lab.
+ACRG was formed in 2015 as an interdisciplinary reading group based at the University of Iowa Obermann Center for Advanced Studies. The purpose of the reading group was to learn how scholars in various disciplines were talking about and studying algorithms. Over time, ACRG evolved into a research group committed to true interdisciplinarity, guided by the belief that our work is strengthened by incorporating insights, theories, and methodologies from a variety of academic paradigms. Today, the ACRG consists of members from universities across the United States interested in studying the relationship between algorithms and culture.
 </p>
 
 ---
