@@ -5,10 +5,21 @@
   area: ""
   start_year: "2018"
   end_year: "&nbsp;"
-  awards: "Head Honcho"
+  awards: "Co-Director"
   category: "faculty"
   projects: ["Governance", "Manipulation", "Privacy", "Measurement"]
 
+- name: "Brian Ekdale"
+  url: "https://journalism.uiowa.edu/people/brian-ekdale"
+  img: "/assets/img/people/brian.jpg"
+  bio: "Associate Professor"
+  area: ""
+  start_year: "2015"
+  end_year: "&nbsp;"
+  awards: "Co-Director"
+  category: "faculty"
+  projects: ["Governance", "Manipulation", "Privacy", "Measurement"]
+  
 - name: "Hussam Habib"
   url: "http://hussamh10.com"
   img: "/assets/img/people/hussam.jpg"
