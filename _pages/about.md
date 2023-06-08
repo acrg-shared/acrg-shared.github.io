@@ -17,13 +17,14 @@ social: false  # includes social icons at the bottom of the page
 ---
 
 ---
+#### about acrg
 <p style="text-align: justify">
-A little info about the Algorithms and Culture Research Group (ACRG).
+The mission of the Algorithms and Culture Research Group (ACRG) is to explore and intervene in the (un)intended and harmful, beneficial, or varying influences of tech on society and culture from an interdisciplinary perspective. In so doing, we evaluate technology as an independent, dependent, and moderating variable that shapes the way its users experience the world. Relatedly, we are interested in studying the ways users creatively manipulate technology toward the goals of agency and resistance.
 </p>
 
 ---
 #### history
-<p style="text-align: justify; color: red">
+<p style="text-align: justify">
 ACRG was formed in 2015 as an interdisciplinary reading group based at the University of Iowa Obermann Center for Advanced Studies. The purpose of the reading group was to learn how scholars in various disciplines were talking about and studying algorithms. Over time, ACRG evolved into a research group committed to true interdisciplinarity, guided by the belief that our work is strengthened by incorporating insights, theories, and methodologies from a variety of academic paradigms. Today, the ACRG consists of members from universities across the United States interested in studying the relationship between algorithms and culture.
 </p>
 
@@ -85,23 +86,12 @@ ACRG was formed in 2015 as an interdisciplinary reading group based at the Unive
 #### acknowledgements
 
 <p style="text-align: justify">
-The SPARTA lab is supported by grants from the National Science Foundation, 
-the Department of Defense, the Air Force Research Laboratory, Google Research,
-and the University of Iowa.
+ACRG is supported by grants from the Department of Defense Minerva Research Initiative, overseen by the Air Force Office of Scientific Research.
 </p>
 
 <p style="text-align: center">
-<img src="assets/img/NSF.png" width="150px">
 <img src="assets/img/USDoD_seal.png" width="150px">
 <img src="assets/img/afrl.png" width="150px">
-<img src="assets/img/google_research.png" width="150px">
-<img src="assets/img/uiowa_seal.png" width="150px">
-</p>
-
-<p style="text-align: justify">
-Our research would not be possible without the support of our sponsors, 
-the <a href="http://cs.uiowa.edu"> Department of Computer Science</a>, 
-and the <a href="https://clas.uiowa.edu/linux/">CLAS Linux Group</a>.
 </p>
 
 ---
