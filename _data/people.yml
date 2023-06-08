@@ -20,7 +20,7 @@
   category: "faculty"
   projects: ["Governance", "Manipulation", "Privacy", "Measurement"]
   
-  - name: "Ryan Stoldt"
+- name: "Ryan Stoldt"
   url: "https://www.drake.edu/sjmc/faculty/ryanstoldt/"
   img: "/assets/img/people/ryan.jpg"
   bio: "Assistant Professor"
