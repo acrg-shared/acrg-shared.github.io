@@ -1,0 +1,24 @@
+<!-- _includes/person.html -->
+
+<div class="grid-sizer"></div>
+<div class="grid-item" style="width: 31%">
+    <a href="{{ person.url }}">
+      <div class="card hoverable">
+        {%- if person.img %}
+        <figure><picture>
+          <img src= "{{person.img}}" width="240px" height="240px" style="object-fit: cover">
+        </picture></figure>
+        {%- endif %}
+        <div class="card-body">
+          <h2 class="card-title" style="color: #ffcd00">{{ person.name }}</h2>
+          <p class="card-text">{{ person.bio }} ({{person.start_year}} - {{person.end_year}})</p>
+          <p class="card-text">{{ person.area }}</p>
+          {%- if person.awards %}
+            <p class="card-text" style="color: #ffcd00">{{person.awards}}</p>
+          {%- else %}
+            <p class="card-text" style="color: #ffcd00">&nbsp;</p>
+          {%- endif %}
+        </div>
+      </div>
+    </a>
+</div>
