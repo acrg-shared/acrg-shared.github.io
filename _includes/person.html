@@ -10,13 +10,16 @@
         </picture></figure>
         {%- endif %}
         <div class="card-body">
-          <h2 class="card-title" style="color: #ffcd00">{{ person.name }}</h2>
+          <h2 class="card-title" style="color: #000000">{{ person.name }}</h2>
           <p class="card-text">{{ person.bio }} ({{person.start_year}} - {{person.end_year}})</p>
           <p class="card-text">{{ person.area }}</p>
+          <p class="card-text">{{ person.dept }}</p>
+          <p class="card-text">{{ person.uni }}</p>
+          <p class="card-text">{{ person.designation }}</p>
           {%- if person.awards %}
-            <p class="card-text" style="color: #ffcd00">{{person.awards}}</p>
+            <p class="card-text" style="color: #000000">{{person.awards}}</p>
           {%- else %}
-            <p class="card-text" style="color: #ffcd00">&nbsp;</p>
+            <p class="card-text" style="color: #000000">&nbsp;</p>
           {%- endif %}
         </div>
       </div>
