@@ -8,7 +8,7 @@
   designation: "Co-Director"
   category: "faculty"
   
-  - name: "Rishab Nithyanand"
+- name: "Rishab Nithyanand"
   url: "https://sparta.cs.uiowa.edu/people/rishab"
   img: "/assets/img/people/rishab-1.jpg"
   bio: "Assistant Professor"
@@ -17,7 +17,7 @@
   designation: "Co-Director"
   category: "faculty"
   
-  - name: "Andrew High"
+- name: "Andrew High"
   url: "https://cssi.psu.edu/people/andrew-high/"
   img: "/assets/img/people/andy.jpg"
   bio: "Associate Professor"
@@ -95,6 +95,6 @@
   bio: "M.Sc./B.Sc."
   dept: "Computer Science"
   uni: "University of Iowa"
-  designation: "Next: PhD @ UMass-Amherst"
+  designation: "Current: PhD @ UMass-Amherst"
   category: "alumni"
 
