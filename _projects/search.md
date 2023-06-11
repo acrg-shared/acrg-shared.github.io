@@ -1,7 +1,7 @@
 ---
 layout: page
 title: search personalization
-description: How does search personalization challenge and reinforce user biases?
+description: How does search personalization challenge and/or reinforce user biases?
 img: /assets/img/midjourney/manipulation.png.jpg
 project: Search
 groups: [faculty, students]
@@ -31,7 +31,7 @@ importance: 1
 
 <h2> research output </h2>
   <p style="text-align: justify">
-    Below is a list of publications from our research on radicalization.
+    Below is a list of publications from our research on search personalization.
   </p>
 <div class="publications">
 {%- for y in page.project %}
