@@ -19,7 +19,7 @@ social: false  # includes social icons at the bottom of the page
 ---
 #### about acrg
 <p style="text-align: justify">
-The mission of the Algorithms and Culture Research Group (ACRG) is to study and address the multifaceted impacts of technology on culture, exploring both its unintentional and harmful consequences, as well as its potential benefits. We view technology as a powerful force that profoundly influences the way individuals perceive and engage with the world. At the same time, we are interested in how individuals leverage technology to exercise agency and resistance, transforming it into a tool for empowerment and self-expression. </p>
+The Algorithms and Culture Research Group (ACRG) seeks to study and address the multifaceted impacts of technology on culture, exploring both its unintentional and harmful consequences, as well as its potential benefits. We view technology as a powerful force that profoundly influences the way individuals perceive and engage with the world. At the same time, we are interested in how individuals leverage technology to exercise agency and resistance, transforming it into a tool for empowerment and self-expression. </p>
 <p style="text-align: justify">
 Through our interdisciplinary approach, we strive to contribute to a better understanding of the intricate interplay between algorithms and culture, fostering critical discussions and paving the way for a more nuanced future.
 </p>
