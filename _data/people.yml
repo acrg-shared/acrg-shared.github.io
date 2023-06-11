@@ -5,8 +5,8 @@
   bio: "Associate Professor"
   dept: "Journalism & Mass Communication"
   uni: "University of Iowa"
-  designation: "Co-Director"
-  category: "faculty"
+  designation: ""
+  category: "co-directors"
   projects: ["Search", "Radicalization", "SIO"]
   
 - name: "Rishab Nithyanand"
@@ -15,8 +15,8 @@
   bio: "Assistant Professor"
   dept: "Computer Science"
   uni: "University of Iowa"
-  designation: "Co-Director"
-  category: "faculty"
+  designation: ""
+  category: "co-directors"
   projects: ["Search", "Radicalization", "SIO"]
   
 - name: "Andrew High"
