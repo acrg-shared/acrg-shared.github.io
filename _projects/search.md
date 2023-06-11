@@ -4,7 +4,7 @@ title: search personalization
 description: How does search personalization challenge and/or reinforce user biases?
 img: /assets/img/midjourney/manipulation.png.jpg
 project: Search
-groups: [faculty, students]
+groups: [directors, faculty, students]
 importance: 1
 ---
 
