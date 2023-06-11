@@ -7,6 +7,7 @@
   uni: "University of Iowa"
   designation: "Co-Director"
   category: "faculty"
+  projects: ["Search", "Radicalization", "SIO"]
   
 - name: "Rishab Nithyanand"
   url: "https://sparta.cs.uiowa.edu/people/rishab"
@@ -16,6 +17,7 @@
   uni: "University of Iowa"
   designation: "Co-Director"
   category: "faculty"
+  projects: ["Search", "Radicalization", "SIO"]
   
 - name: "Andrew High"
   url: "https://cssi.psu.edu/people/andrew-high/"
@@ -25,6 +27,7 @@
   uni: "Pennsylvania State University"
   designation: ""
   category: "faculty"
+  projects: ["Search", "Radicalization", "SIO"]
 
 - name: "Tim Havens"
   url: "https://communicationstudies.uiowa.edu/people/tim-havens"
@@ -34,6 +37,7 @@
   uni: "University of Iowa"
   designation: ""
   category: "faculty"
+  projects: ["Search", "Radicalization"]
   
 - name: "Raven Maragh-Lloyd"
   url: "https://artsci.wustl.edu/faculty-staff/raven-maragh-lloyd"
@@ -43,7 +47,8 @@
   uni: "Washington University in St. Louis"
   designation: ""
   category: "faculty"
-  
+  projects: ["Search", "Radicalization", "SIO"]
+
 - name: "Ryan Stoldt"
   url: "https://www.drake.edu/sjmc/faculty/ryanstoldt/"
   img: "/assets/img/people/ryan.jpg"
@@ -52,6 +57,7 @@
   uni: "Drake University"
   designation: ""
   category: "faculty"
+  projects: ["Search", "Radicalization", "SIO"]
 
 - name: "Katy Biddle"
   url: "https://journalism.uiowa.edu/people/katy-biddle"
@@ -61,6 +67,7 @@
   uni: "University of Iowa"
   designation: ""
   category: "students"
+  projects: ["Search", "Radicalization", "SIO"]
 
 - name: "Sarmad Chandio"
   url: "http://sarmadchandio.com"
@@ -70,6 +77,7 @@
   uni: "University of Iowa"
   designation: ""
   category: "students"
+  projects: ["Search", "Radicalization", "SIO"]
       
 - name: "Hussam Habib"
   url: "http://hussamh10.com"
@@ -79,6 +87,7 @@
   uni: "University of Iowa"
   designation: ""
   category: "students"
+  projects: ["Search", "Radicalization", "SIO"]
   
 - name: "Javie Ssozie"
   url: "https://journalism.uiowa.edu/people/javie-ssozi"
@@ -88,6 +97,7 @@
   uni: "University of Iowa"
   designation: ""
   category: "students"
+  projects: ["Radicalization", "SIO"]
 
 - name: "John Thiede"
   url: "https://www.linkedin.com/in/john-thiede-8676b4184"
