@@ -89,12 +89,12 @@ ACRG was formed in 2015 as an interdisciplinary reading group based at the Unive
 #### acknowledgements
 
 <p style="text-align: justify">
-ACRG is supported by grants from the Department of Defense Minerva Research Initiative, overseen by the Air Force Office of Scientific Research.
+ACRG is supported by grants from the Department of Defense Minerva Research Initiative and managed through the Air Force Office of Scientific Research.
 </p>
 
 <p style="text-align: center">
 <img src="assets/img/USDoD_seal.png" width="150px">
-<img src="assets/img/afrl.png" width="150px">
+<img src="assets/img/afosr.png" width="150px">
 </p>
 
 ---
