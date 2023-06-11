@@ -22,7 +22,6 @@ social: false  # includes social icons at the bottom of the page
 The mission of the Algorithms and Culture Research Group (ACRG) is to study and address the multifaceted impacts of technology on culture, exploring both its unintentional and harmful consequences, as well as its potential benefits. We view technology as a powerful force that profoundly influences the way individuals perceive and engage with the world. At the same time, we are interested in how individuals leverage technology to exercise agency and resistance, transforming it into a tool for empowerment and self-expression. </p>
 <p style="text-align: justify">
 Through our interdisciplinary approach, we strive to contribute to a better understanding of the intricate interplay between algorithms and culture, fostering critical discussions and paving the way for a more nuanced future.
-![image](https://github.com/acrg-shared/acrg-shared.github.io/assets/136021130/9b6fb4d2-3557-4a30-94a3-375ac55c6454)
 </p>
 
 ---
@@ -32,7 +31,7 @@ ACRG was formed in 2015 as an interdisciplinary reading group based at the Unive
 </p>
 
 ---
-#### ongoing research
+#### research projects
 
 <!-- pages/projects.md -->
 <div class="projects">
