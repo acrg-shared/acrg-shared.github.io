@@ -4,7 +4,7 @@ title: strategic information operations
 description: How are user- and platform-specific vulnerabilities exploited by foreign actors?
 img: /assets/img/midjourney/auditor.png.jpg
 project: SIO
-groups: [faculty, students]
+groups: [directors, faculty, students]
 importance: 1
 ---
 
