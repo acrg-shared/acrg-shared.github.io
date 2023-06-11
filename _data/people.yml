@@ -98,13 +98,3 @@
   designation: ""
   category: "students"
   projects: ["Radicalization", "SIO"]
-
-- name: "John Thiede"
-  url: "https://www.linkedin.com/in/john-thiede-8676b4184"
-  img: "/assets/img/people/johnthiede.jpg"
-  bio: "M.Sc./B.Sc."
-  dept: "Computer Science"
-  uni: "University of Iowa"
-  designation: "Current: PhD @ UMass-Amherst"
-  category: "alumni"
-
