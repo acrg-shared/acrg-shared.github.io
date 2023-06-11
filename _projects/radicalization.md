@@ -4,7 +4,7 @@ title: radicalization
 description: What is the relationship between algorithmic personalization and online radicalization?
 img: /assets/img/midjourney/governance.png.jpg
 project: Radicalization
-groups: [directors, faculty, students]
+groups: [co-directors, faculty, students]
 importance: 1
 ---
 
