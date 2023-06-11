@@ -1,27 +1,17 @@
 ---
 layout: page
-title: online manipulation
-description: How are opinions manipulated by people and algorithms online?
+title: search personalization
+description: How does search personalization challenge and reinforce user biases?
 img: /assets/img/midjourney/manipulation.png.jpg
-project: Manipulation
+project: Search
 groups: [faculty, students]
 importance: 1
 ---
 
-<h2> what is online manipulation? </h2>
   <p style="text-align: justify">
-        Online manipulation refers to the act of deliberately influencing 
-        or controlling the thoughts, opinions, behaviors, or actions of individuals 
-        or groups through online platforms and digital communication channels. It 
-        involves the use of a broad variety of techniques, strategies, and tactics to exploit 
-        vulnerabilities and manipulate people's emotions, beliefs, and decisions. 
-        Online manipulation is often employed for purposes such as political 
-        propaganda, advertising, social engineering, or spreading misinformation.
-        <br><br>
-        At the SPARTA lab, we're interested in developing a stronger understanding of the processes by which
-        Internet users are manipulated by other users and by platform algorithms (e.g., recommendation systems). 
-        Our ultimate goal is to develop technological and policy interventions that are able to protect consumers
-        from manipulation online.
+        
+  We need a description of our research on search.
+  
   </p>
 <hr>
 
@@ -41,7 +31,7 @@ importance: 1
 
 <h2> research output </h2>
   <p style="text-align: justify">
-    Peruse the following publications from our lab to learn about our related research and findings.
+    Below is a list of publications from our research on radicalization.
   </p>
 <div class="publications">
 {%- for y in page.project %}
