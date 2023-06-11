@@ -1,14 +1,13 @@
 ---
 layout: page
 title: radicalization
-description: Studying the relationship between algorithmic personalization and online radicalization
+description: What is the relationship between algorithmic personalization and online radicalization?
 img: /assets/img/midjourney/governance.png.jpg
 project: Radicalization
 groups: [faculty, students]
 importance: 1
 ---
 
-<h2> how do algorithms interact with political attitudes and behaviors? </h2>
   <p style="text-align: justify">
   
 From YouTube functioning as “the great radicalizer” (Tufekci, 2018) to the spread of misinformation on Facebook and Twitter (Allcott, Gentzkow, & Yu, 2019), social media algorithms that personalize user content pose a significant concern for American national security. What users click, like, share, read, watch, and comment on is used by social media platforms as input for their proprietary algorithms that determine future content users see. With those inputs, algorithmic personalization can intensify “reinforcing spirals” (Slater, 2007) in which a user’s media choices affect their interests which, in turn, affect their future media choices and so on, producing a negative feedback loop that can lead toward extremism. Studying the interplay between the technological features of personalization algorithms and the psychological attributes and interpretive strategies of users can help us understand how individuals become radicalized online. Therefore, it is vitally important to identify technological, psychological, and cultural factors that lead to the radicalization of vulnerable populations on social media through the algorithmic personalization of content. 
