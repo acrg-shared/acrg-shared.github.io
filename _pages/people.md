@@ -8,7 +8,7 @@ display_categories: [co-directors, faculty, students]
 ---
 
 <p style="text-align: center">
-<img src="acrg_2023retreat.jpg" width="100%">
+<img src="../assets/img/people/acrg_2023retreat.jpg" width="100%">
 </p>
 
 ---
