@@ -37,7 +37,7 @@
   uni: "University of Iowa"
   designation: ""
   category: "faculty"
-  projects: ["Search", "Radicalization"]
+  projects: ["Search", "Radicalization", "Streaming"]
   
 - name: "Raven Maragh-Lloyd"
   url: "https://artsci.wustl.edu/faculty-staff/raven-maragh-lloyd"
@@ -57,7 +57,7 @@
   uni: "Drake University"
   designation: ""
   category: "faculty"
-  projects: ["Search", "Radicalization", "SIO"]
+  projects: ["Search", "Radicalization", "SIO", "Streaming"]
 
 - name: "Katy Biddle"
   url: "https://journalism.uiowa.edu/people/katy-biddle"
