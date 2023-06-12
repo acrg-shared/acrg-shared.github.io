@@ -7,6 +7,10 @@ nav_order: 1
 display_categories: [co-directors, faculty, students]
 ---
 
+<p style="text-align: center">
+<img src="assets/img/acrg_2023retreat.jpg" width="100%">
+</p>
+
 <!-- pages/people.md -->
 
 <div class="projects">
