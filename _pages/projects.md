@@ -2,7 +2,7 @@
 layout: page
 title: research
 permalink: /projects/
-description: ongoing research projects at the SPARTA lab
+description: ACRG current research projects
 nav: true
 nav_order: 2
 horizontal: false
