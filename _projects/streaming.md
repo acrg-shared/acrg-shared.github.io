@@ -1,9 +1,9 @@
 ---
 layout: page
-title: fourth category
-description: Do we have a fourth category?
+title: streaming video
+description: What about a category for the type of things Ryan and Tim do on algorithms and streaming?
 img: /assets/img/midjourney/measurement.png.jpg
-project: Measurement
+project: Streaming
 groups: [co-directors, faculty, students]
 importance: 1
 ---
