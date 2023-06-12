@@ -30,7 +30,7 @@ Relevant text goes here
 
 <h2> research output </h2>
   <p style="text-align: justify">
-    Below is a list of publications from our research on this fourth unknown category.
+    Below is a list of publications from our research on streaming video.
   </p>
 <div class="publications">
 {%- for y in page.project %}
