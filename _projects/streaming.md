@@ -10,7 +10,7 @@ importance: 1
 
   <p style="text-align: justify">
   
-Test to come...
+Text to come...
   
  </p>
 <hr>
