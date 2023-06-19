@@ -6,26 +6,6 @@
   dept: "Journalism & Mass Communication"
   uni: "University of Iowa"
   designation: ""
-  category: "co-directors"
-  projects: ["Search", "Radicalization", "SIO"]
-  
-- name: "Rishab Nithyanand"
-  url: "https://sparta.cs.uiowa.edu/people/rishab"
-  img: "/assets/img/people/rishab-1.jpg"
-  bio: "Assistant Professor"
-  dept: "Computer Science"
-  uni: "University of Iowa"
-  designation: ""
-  category: "co-directors"
-  projects: ["Search", "Radicalization", "SIO"]
-  
-- name: "Andrew High"
-  url: "https://cssi.psu.edu/people/andrew-high/"
-  img: "/assets/img/people/andy.jpg"
-  bio: "Associate Professor"
-  dept: "Communication Arts & Sciences"
-  uni: "Pennsylvania State University"
-  designation: ""
   category: "faculty"
   projects: ["Search", "Radicalization", "SIO"]
 
@@ -39,6 +19,16 @@
   category: "faculty"
   projects: ["Search", "Radicalization", "Streaming"]
   
+- name: "Andrew High"
+  url: "https://cssi.psu.edu/people/andrew-high/"
+  img: "/assets/img/people/andy.jpg"
+  bio: "Associate Professor"
+  dept: "Communication Arts & Sciences"
+  uni: "Pennsylvania State University"
+  designation: ""
+  category: "faculty"
+  projects: ["Search", "Radicalization", "SIO"]
+  
 - name: "Raven Maragh-Lloyd"
   url: "https://artsci.wustl.edu/faculty-staff/raven-maragh-lloyd"
   img: "/assets/img/people/raven.jpg"
@@ -49,6 +39,16 @@
   category: "faculty"
   projects: ["Search", "Radicalization", "SIO"]
 
+- name: "Rishab Nithyanand"
+  url: "https://sparta.cs.uiowa.edu/people/rishab"
+  img: "/assets/img/people/rishab-1.jpg"
+  bio: "Assistant Professor"
+  dept: "Computer Science"
+  uni: "University of Iowa"
+  designation: ""
+  category: "faculty"
+  projects: ["Search", "Radicalization", "SIO"]
+  
 - name: "Ryan Stoldt"
   url: "https://www.drake.edu/sjmc/faculty/ryanstoldt/"
   img: "/assets/img/people/ryan.jpg"
