@@ -4,7 +4,7 @@ permalink: /people/
 title: team
 nav: true
 nav_order: 1
-display_categories: [co-directors, faculty, students]
+display_categories: [faculty, students]
 ---
 
 <p style="text-align: center">
