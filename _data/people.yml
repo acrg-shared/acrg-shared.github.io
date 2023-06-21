@@ -29,6 +29,16 @@
   category: "faculty"
   projects: ["Search", "Radicalization", "SIO"]
   
+- name: "Volha Kananovich"
+  url: "https://communication.appstate.edu/faculty-staff/directory/dr-volha-kananovich"
+  img: "/assets/img/people/volha.jpg"
+  bio: "Assistant Professor"
+  dept: "Communication"
+  uni: "Appalachian State University"
+  designation: ""
+  category: "faculty"
+  projects: ["SIO"]
+
 - name: "Raven Maragh-Lloyd"
   url: "https://artsci.wustl.edu/faculty-staff/raven-maragh-lloyd"
   img: "/assets/img/people/raven.jpg"
