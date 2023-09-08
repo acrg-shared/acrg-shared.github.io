@@ -3,7 +3,7 @@ layout: page
 title: media and cultural studies
 description: How do algorithms shape media and culture?
 img: /assets/img/midjourney/governance.png.jpg
-project: Streaming
+project: Media
 groups: [co-directors, faculty, students]
 importance: 1
 ---
