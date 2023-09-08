@@ -1,7 +1,7 @@
 ---
 layout: page
-title: streaming video
-description: A category for the type of work Ryan and Tim do...
+title: media and cultural studies
+description: How do algorithms shape media and culture?
 img: /assets/img/midjourney/governance.png.jpg
 project: Streaming
 groups: [co-directors, faculty, students]
@@ -31,7 +31,7 @@ Text to come...
 
 <h2> research output </h2>
   <p style="text-align: justify">
-    Below is a list of publications from our research on streaming video.
+    Below is a list of publications from our research on media and cultural studies.
   </p>
 <div class="publications">
 {%- for y in page.project %}
