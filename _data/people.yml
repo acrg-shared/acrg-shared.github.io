@@ -7,7 +7,7 @@
   uni: "University of Iowa"
   designation: ""
   category: "faculty"
-  projects: ["Search", "Radicalization", "SIO"]
+  projects: ["Search", "Radicalization", "SIO", "Media"]
 
 - name: "Tim Havens"
   url: "https://communicationstudies.uiowa.edu/people/tim-havens"
@@ -17,7 +17,7 @@
   uni: "University of Iowa"
   designation: ""
   category: "faculty"
-  projects: ["Search", "Radicalization", "Streaming"]
+  projects: ["Search", "Radicalization", "Media"]
   
 - name: "Andrew High"
   url: "https://cssi.psu.edu/people/andrew-high/"
@@ -47,7 +47,7 @@
   uni: "Washington University in St. Louis"
   designation: ""
   category: "faculty"
-  projects: ["Search", "Radicalization", "SIO"]
+  projects: ["Search", "Radicalization", "SIO", "Media"]
 
 - name: "Rishab Nithyanand"
   url: "https://sparta.cs.uiowa.edu/people/rishab"
@@ -67,7 +67,7 @@
   uni: "Drake University"
   designation: ""
   category: "faculty"
-  projects: ["Search", "Radicalization", "SIO", "Streaming"]
+  projects: ["Search", "Radicalization", "SIO", "Streaming", "Media"]
 
 - name: "Katy Biddle"
   url: "https://journalism.uiowa.edu/people/katy-biddle"
