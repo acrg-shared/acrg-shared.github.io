@@ -17,17 +17,17 @@ social: false  # includes social icons at the bottom of the page
 ---
 
 ---
-#### about acrg
+#### about aps
 <p style="text-align: justify">
-The Algorithms and Culture Research Group (ACRG) seeks to study and address the multifaceted impacts of technology on culture, exploring both its unintentional and harmful consequences, as well as its potential benefits. We view technology as a powerful force that profoundly influences the way individuals perceive and engage with the world. At the same time, we are interested in how individuals leverage technology to exercise agency and resistance, transforming it into a tool for empowerment and self-expression. </p>
+Algorithmic Personalization & Society seeks to study and address the multifaceted impacts of personalization algorithms on society, exploring both their unintentional and harmful consequences, as well as their potential benefits. We view personalization as a powerful force that profoundly influences the way individuals perceive and engage with the world. At the same time, we are interested in how individuals leverage technology to exercise agency and resistance, transforming it into a tool for empowerment and self-expression. </p>
 <p style="text-align: justify">
-Through our interdisciplinary approach, we strive to contribute to a better understanding of the intricate interplay between algorithms and culture, fostering critical discussions and paving the way for a more nuanced future.
+Through our interdisciplinary approach, we strive to contribute to a better understanding of the intricate interplay between algorithmic personalization and society, fostering critical discussions and paving the way for a more nuanced future.
 </p>
 
 ---
 #### history
 <p style="text-align: justify">
-ACRG was formed in 2015 as an interdisciplinary reading group based at the University of Iowa <a href="https://obermann.uiowa.edu/">Obermann Center for Advanced Studies</a>. The purpose of the reading group was to learn how scholars in various disciplines were talking about and studying algorithms. Over time, ACRG evolved into a research group committed to true interdisciplinarity, guided by the belief that our work is strengthened by incorporating insights, theories, and methodologies from a variety of academic paradigms. Today, the ACRG consists of members from universities across the United States interested in studying the relationship between algorithms and culture.
+Algorithmic Personalization & Society was formed in 2015 as an interdisciplinary reading group based at the University of Iowa <a href="https://obermann.uiowa.edu/">Obermann Center for Advanced Studies</a>. The purpose of the reading group was to learn how scholars in various disciplines were talking about and studying algorithms. Over time, ACRG evolved into a research group committed to true interdisciplinarity, guided by the belief that our work is strengthened by incorporating insights, theories, and methodologies from a variety of academic paradigms. Today, the ACRG consists of members from universities across the United States interested in studying the relationship between personalization algorithms and society.
 </p>
 
 ---
