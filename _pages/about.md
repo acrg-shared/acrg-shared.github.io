@@ -19,7 +19,7 @@ social: false  # includes social icons at the bottom of the page
 ---
 #### about aps
 <p style="text-align: justify">
-Algorithmic Personalization & Society seeks to study and address the multifaceted impacts of personalization algorithms on society, exploring both their unintentional and harmful consequences, as well as their potential benefits. We view personalization as a powerful force that profoundly influences the way individuals perceive and engage with the world. At the same time, we are interested in how individuals leverage technology to exercise agency and resistance, transforming it into a tool for empowerment and self-expression. </p>
+Algorithmic Personalization & Society examines the multifaceted impacts of personalization algorithms on society, exploring both their unintentional and harmful consequences, as well as their potential benefits. We view personalization as a powerful force that profoundly influences the way individuals perceive and engage with the world. At the same time, we are interested in how individuals leverage technology to exercise agency and resistance, transforming it into a tool for empowerment and self-expression. </p>
 <p style="text-align: justify">
 Through our interdisciplinary approach, we strive to contribute to a better understanding of the intricate interplay between algorithmic personalization and society, fostering critical discussions and paving the way for a more nuanced future.
 </p>
