@@ -27,7 +27,7 @@ Through our interdisciplinary approach, we strive to contribute to a better unde
 ---
 #### history
 <p style="text-align: justify">
-Algorithmic Personalization & Society was formed in 2015 as an interdisciplinary reading group based at the University of Iowa <a href="https://obermann.uiowa.edu/">Obermann Center for Advanced Studies</a>. The purpose of the reading group was to learn how scholars in various disciplines were talking about and studying algorithms. Over time, ACRG evolved into a research group committed to true interdisciplinarity, guided by the belief that our work is strengthened by incorporating insights, theories, and methodologies from a variety of academic paradigms. Today, the ACRG consists of members from universities across the United States interested in studying the relationship between personalization algorithms and society.
+Algorithmic Personalization & Society was formed in 2015 as an interdisciplinary reading group based at the University of Iowa <a href="https://obermann.uiowa.edu/">Obermann Center for Advanced Studies</a>. The purpose of the reading group was to learn how scholars in various disciplines were talking about and studying algorithms. Over time, ACRG evolved into a research group committed to true interdisciplinarity, guided by the belief that our work is strengthened by incorporating insights, theories, and methodologies from a variety of academic paradigms. Today, the APS consists of members from universities across the United States interested in studying the relationship between personalization algorithms and society.
 </p>
 
 ---
