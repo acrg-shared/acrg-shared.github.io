@@ -67,8 +67,18 @@
   uni: "Drake University"
   designation: ""
   category: "faculty"
-  projects: ["Search", "Radicalization", "SIO", "Streaming", "Media"]
+  projects: ["Search", "Radicalization", "SIO", "Media"]
 
+- name: "Bingbing Zhang"
+  url: "https://journalism.uiowa.edu/people/bingbing-zhang"
+  img: "/assets/img/people/bingbing.jpg"
+  bio: "Assistant Professor"
+  dept: "Journalism & Mass Communication"
+  uni: "University of Iowa"
+  designation: ""
+  category: "faculty"
+  projects: ["Search", "Radicalization", "SIO"]
+  
 - name: "Katy Biddle"
   url: "https://journalism.uiowa.edu/people/katy-biddle"
   img: "/assets/img/people/katy.jpg"
@@ -98,13 +108,33 @@
   designation: ""
   category: "students"
   projects: ["Search", "Radicalization", "SIO"]
-  
+        
+- name: "Manisha Keim"
+  url: "https://cs.uiowa.edu/people/manisha-keim"
+  img: "/assets/img/people/manisha.jpg"
+  bio: "Ph.D. student"
+  dept: "Computer Science"
+  uni: "University of Iowa"
+  designation: ""
+  category: "students"
+  projects: ["Search", "Radicalization", "SIO"]
+
 - name: "Javie Ssozie"
   url: "https://journalism.uiowa.edu/people/javie-ssozi"
   img: "/assets/img/people/javie.jpg"
   bio: "Ph.D. student"
   dept: "Journalism & Mass Communication"
   uni: "University of Iowa"
+  designation: ""
+  category: "students"
+  projects: ["Radicalization", "SIO"]
+
+- name: "Nhung Vu"
+  url: "https://cas.la.psu.edu/people/nhung-vu/"
+  img: "/assets/img/people/nhung.jpg"
+  bio: "Ph.D. student"
+  dept: "Communication Arts & Sciences"
+  uni: "Penn State University"
   designation: ""
   category: "students"
   projects: ["Radicalization", "SIO"]
